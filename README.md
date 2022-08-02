@@ -2,7 +2,7 @@
 <img height=260 src="https://ik.imagekit.io/sbtimes/virusradar_logo_4ce652pk7.png"/>
 </p></a>
 <p align="center">
-  <strong>Open-Source Frontend Codebase for VirusRadar 💉</strong><br />
+  <strong>VirusRadar Open-Source Frontend Codebase💉</strong><br />
   <p align="center">Capstone Project (Lyceum Subic Bay)</p>
 </p>
 
