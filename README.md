@@ -6,7 +6,11 @@
   <p align="center">Capstone Project (Lyceum Subic Bay)</p>
 </p>
 
-## Attribution
+### Contributing
+
+If you want to add contributions to this repository, please follow the instructions in [contributing.md](./contributing.md).
+
+## Attributions
 
 - Johns Hopkins University
 - Department of Health (Government of the Philippines)
