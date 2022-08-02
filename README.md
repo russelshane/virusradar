@@ -3,7 +3,7 @@
 </p></a>
 <p align="center">
   <strong>Open-Source Frontend Codebase for VirusRadar 💉</strong><br />
-  <p>Capstone Project (Lyceum Subic Bay)</p>
+  <p align="center">Capstone Project (Lyceum Subic Bay)</p>
 </p>
 
 ## Attribution
