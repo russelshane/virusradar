@@ -6,15 +6,17 @@
   <p align="center">Capstone Project (Lyceum Subic Bay)</p>
 </p>
 
-### Contributing
+# VirusRadar
+
+## Contributing
 
 If you want to add contributions to this repository, please follow the instructions in [contributing.md](./contributing.md).
 
 ## Attributions
 
-- Johns Hopkins University
-- Department of Health (Government of the Philippines)
+- Johns Hopkins University, via [JHU CSSE](https://coronavirus.jhu.edu/map.html)
+- Department of Health (Philippines)
 - The World Health Organization (WHO)
 - Centers for Disease Control and Prevention (CDC)
-- Open-Source Data by OWID and Disease.sh
-- Local Government Units
+- Open-Source Data by Our World in Data and Disease.sh
+- Local Government Units (Philippines)
