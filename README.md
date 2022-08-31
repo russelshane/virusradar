@@ -1,3 +1,6 @@
+<div align="center">
+<h1>VirusRadar</h1>
+</div>
 <a href="https://virusradar.net"><p align="center">
 <img height=260 src="https://ik.imagekit.io/sbtimes/virusradar_logo_4ce652pk7.png"/>
 </p></a>
@@ -5,8 +8,6 @@
   <strong>VirusRadar Open-Source Frontend Codebase💉</strong><br />
   <p align="center">Capstone Project (Lyceum Subic Bay)</p>
 </p>
-
-# VirusRadar
 
 ## Contributing
 
