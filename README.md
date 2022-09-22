@@ -18,6 +18,6 @@ If you want to add contributions to this repository, please follow the instructi
 - Johns Hopkins University, via [JHU CSSE](https://coronavirus.jhu.edu/map.html)
 - Department of Health (Philippines)
 - The World Health Organization (WHO)
-- Centers for Disease Control and Prevention (CDC)
+- Centers for Disease Control and Prevention (C.D.C.)
 - Open-Source Data by Our World in Data and Disease.sh
 - Local Government Units (Philippines)
