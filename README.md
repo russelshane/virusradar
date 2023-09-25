@@ -8,7 +8,7 @@
   <strong>VirusRadar Open-Source Frontend Codebase💉</strong><br />
   <p align="center">Capstone Project (Lyceum Subic Bay)</p>
 </p>
-
+ 
 ## Contributing
 
 If you want to add contributions to this repository, please follow the instructions in [contributing.md](./contributing.md).
